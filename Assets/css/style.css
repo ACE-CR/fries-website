@@ -1373,7 +1373,24 @@ position: relative;
 }
 
 /* FOOTER AREA  */
-
+ .footer-text-3 {
+  text-align: center;
+  width: 100%;
+  height: 30px;
+  color: #ecb81b;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.footer-text-4 {
+  text-align: center;
+  width: 100%;
+  height: 30px;
+  color: #ecb81b;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
 
 }
 
@@ -1672,7 +1689,24 @@ position: relative;
   font-size: 15px;
   font-weight: 330;
 }
-
+ .footer-text-3 {
+  text-align: center;
+  width: 100%;
+  height: 30px;
+  color: #ecb81b;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.footer-text-4 {
+  text-align: center;
+  width: 100%;
+  height: 30px;
+  color: #ecb81b;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
 /* FOOTER AREA  */
 
 
